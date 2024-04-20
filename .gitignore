@@ -1,0 +1,10 @@
+﻿Member.API/bin
+Member.API/obj
+Member.Application/bin
+Member.Application/obj
+Member.Domain/bin
+Member.Domain/obj
+Member.Infrastructure/obj
+Member.Infrastructure/bin
+
+.vs
